@@ -4,3 +4,4 @@ node_modules
 Icon
 .tmp
 ssl
+.vscode
